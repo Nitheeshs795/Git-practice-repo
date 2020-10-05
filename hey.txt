@@ -1,0 +1,1 @@
+This is a project used for the study purpose of the GIT project. The overall development of this project can be virtually controlled by the GIT.
